@@ -1,0 +1,2 @@
+see https://github.com/chjj/marked/blob/master/lib/marked.js#L1155
+and https://github.com/remy/eventsource-h5d/blob/master/public/EventSource.js#L171
